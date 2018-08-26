@@ -19,7 +19,7 @@ Nace en 2003, con la necesidad de hacer web’s con la filosofía de hacer las c
 * Poder hacer sitios escalables.
 * URLs bien diseñadas.
 * HTTP request y responses.
-    - ORM, que es conectar a na DB a traves de una interfaz python.
+    - ORM, que es conectar a una DB a traves de una interfaz python.
 
 ### Características.
 
