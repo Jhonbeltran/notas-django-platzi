@@ -1,5 +1,5 @@
 # Resumen
-por: rafaelpardo98
+**por:** *rafaelpardo98*
 ***
 
 Al inicio de la web todo era texto plano (HTML), al transcurrir del tiempo se necesitaban cosas más complejas como conexión a BD’s y de ahi nace CGIscript
