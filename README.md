@@ -14,6 +14,8 @@ Luego nacen los frameworks para poder resolver tareas comunes, como:
 
 ## Django
 
+https://github.com/django/django
+
 Nace en 2003, con la necesidad de hacer web’s con la filosofía de hacer las cosas de manera agíl.
 
 * Poder hacer sitios escalables.
