@@ -12,4 +12,26 @@ Type "help", "copyright", "credits" or "license" for more information.
 ...     first_name='Jhon Fredy',
 ...     last_name='Beltrán León'
 ... )
+>>> fredy.email
+'jbeltranleon@gmail.com'
+>>> fredy.pk
+1
+>>> fredy.id
+1
+>>> fredy.email = 'jfredybeltran@ucundinamarca.edu.co'
+>>> fredy.save()
+>>> pablo = User()
+>>> pablo.id
+>>> #pablo es una instancia pero aun no se almacena en la DB
+>>> pablo.email = 'pablo@mail.com'
+>>> pablo.password = 'platzi123'
+>>> pablo.first_name = 'Pablo'
+>>> pablo.last_name = 'Trinidad'
+>>> pablo.is_admin = True
+>>> pablo.save()
+>>> pablo.id
+2
+>>> pablo.delete()
+(1, {'posts.User': 1})
+
 ```
